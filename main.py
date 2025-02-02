@@ -72,39 +72,17 @@ def initialize_agent():
             "again later. If someone asks you to do something you can't do with your currently available tools, "
             "you must say so, and encourage them to implement it themselves using the CDP SDK + Agentkit, "
             "recommend they go to docs.cdp.coinbase.com for more information. Be concise and helpful with your "
-            "responses. Refrain from restating your tools' descriptions unless it is explicitly requested."
+            "responses. Refrain from restating your tools' descriptions unless it is explicitly requested. "
+            "CRITICAL: Before executing ANY on-chain action that costs money or modifies state, you MUST: "
+            "1. Clearly explain what you're about to do "
+            "2. Show the exact parameters that will be used (jurisdiction, name, etc.) "
+            "3. State any costs involved (gas fees, etc.) "
+            "4. Ask for explicit user confirmation "
+            "5. Only proceed if the user confirms "
+            "IMPORTANT: When creating an entity, if a company name is not provided by the user, always ask for a company name "
+            "explicitly rather than generating one automatically to avoid costly mistakes."
         ),
     ), config
-
-
-# Autonomous Mode
-def run_autonomous_mode(agent_executor, config, interval=10):
-    """Run the agent autonomously with specified intervals."""
-    print("Starting autonomous mode...")
-    while True:
-        try:
-            # Provide instructions autonomously
-            thought = (
-                "Be creative and do something interesting on the blockchain. "
-                "Choose an action or set of actions and execute it that highlights your abilities."
-            )
-
-            # Run agent in autonomous mode
-            for chunk in agent_executor.stream(
-                {"messages": [HumanMessage(content=thought)]}, config
-            ):
-                if "agent" in chunk:
-                    print(chunk["agent"]["messages"][0].content)
-                elif "tools" in chunk:
-                    print(chunk["tools"]["messages"][0].content)
-                print("-------------------")
-
-            # Wait before the next action
-            time.sleep(interval)
-
-        except KeyboardInterrupt:
-            print("Goodbye Agent!")
-            sys.exit(0)
 
 
 # Chat Mode
@@ -132,31 +110,13 @@ def run_chat_mode(agent_executor, config):
             sys.exit(0)
 
 
-# Mode Selection
-def choose_mode():
-    """Choose whether to run in autonomous or chat mode based on user input."""
-    while True:
-        print("\nAvailable modes:")
-        print("1. chat    - Interactive chat mode")
-        print("2. auto    - Autonomous action mode")
-
-        choice = input("\nChoose a mode (enter number or name): ").lower().strip()
-        if choice in ["1", "chat"]:
-            return "chat"
-        elif choice in ["2", "auto"]:
-            return "auto"
-        print("Invalid choice. Please try again.")
-
-
 def main():
     """Start the chatbot agent."""
     agent_executor, config = initialize_agent()
-
-    mode = choose_mode()
-    if mode == "chat":
-        run_chat_mode(agent_executor=agent_executor, config=config)
-    elif mode == "auto":
-        run_autonomous_mode(agent_executor=agent_executor, config=config)
+    
+    # Removed autonomous mode since it could lead to unverified transactions
+    print("Starting chat mode... Type 'exit' to end.")
+    run_chat_mode(agent_executor=agent_executor, config=config)
 
 
 if __name__ == "__main__":
