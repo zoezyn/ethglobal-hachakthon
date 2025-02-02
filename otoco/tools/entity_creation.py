@@ -8,9 +8,16 @@ from pydantic import BaseModel
 from otoco.tools.constants import OTOCO_MASTER_ADDRESS, OTOCO_MASTER_ABI
 
 
-class Jurisdiction(Enum):
-    """Jurisdiction list for otoco."""
+class Jurisdiction(int, Enum):
+    """Jurisdiction list for otoco. Allowed values are:
+       - DELAWARE_COMPANY_LLC: Represents a Delaware limited liability company with id 1.
+       - WYOMING_COMPANY_LLC: Represents a Wyoming limited liability company with id 2.
+       - SWISS_ASSOCIATION: Represents a Swiss association with id 3.
+       - MARSHALL_ISLANDS_COMPANY_LLC: Represents a Marshall Islands company LLC with id 4.
 
+       Each enum member's value serves as the numeric jurisdiction id required by the smart contract.
+       Always pass the enum member's value (e.g. jurisdiction.value) when interacting with the contract.
+    """
     DELAWARE_COMPANY_LLC = 1
     WYOMING_COMPANY_LLC = 2
     SWISS_ASSOCIATION = 3
@@ -29,6 +36,9 @@ def create_entity(wallet: Wallet, jurisdiction: Jurisdiction, name: str) -> str:
         wallet (Wallet): The wallet to deploy the contract from.
         jurisdiction (Jurisdiction): The jurisdiction id for the entity creation inside otoco master smart contract.
         name (str): The name of the entity or company.
+
+    Note:
+        Ensure that you pass the jurisdiction id as a number by using jurisdiction.value.
 
     Returns:
         address (str): The address of the created entity or company.
