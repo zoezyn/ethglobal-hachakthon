@@ -94,5 +94,54 @@ celerybeat.pid
 .venv
 env/
 env.bak/
-venv/ 
+venv/
 wallet_data.txt
+
+# Node.js / TypeScript
+node_modules/
+dist/
+coverage/
+.npm/
+.yarn/
+*.tsbuildinfo
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+.env.local
+.env.*.local
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+.pnpm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Build output
+build/
+out/
+.output/
+
+# Local Netlify folder
+.netlify
+
+# Deno
+.deno/

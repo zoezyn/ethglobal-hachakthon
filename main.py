@@ -1,11 +1,15 @@
 import os
 import sys
 import time
+from langchain_community.tools import DuckDuckGoSearchRun
+
+
 
 from dotenv import load_dotenv
 
 from langchain_core.messages import HumanMessage
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
+
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import create_react_agent
 
@@ -24,7 +28,9 @@ load_dotenv()
 def initialize_agent():
     """Initialize the agent with CDP Agentkit."""
     # Initialize LLM.
-    llm = ChatOpenAI(model="gpt-4o-mini")
+    llm = ChatGoogleGenerativeAI(
+        model="gemini-2.0-flash-exp",
+    )
 
     wallet_data = None
 
