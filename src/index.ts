@@ -16,6 +16,9 @@ import * as dotenv from "dotenv";
 import * as fs from "fs";
 import * as readline from "readline";
 import { ceroXProvider } from "./providers/cerox";
+import { trendingMemecoinsProvider } from "./providers/trending-memecoins";
+import { Command } from 'commander';
+import { startServer } from './server';
 
 dotenv.config();
 
@@ -46,7 +49,7 @@ validateEnvironment();
 
 const WALLET_DATA_FILE = "wallet_data.txt";
 
-async function initializeAgent() {
+export async function initializeAgent() {
   try {
     const llm = new ChatGroq({
       model: "deepseek-r1-distill-llama-70b",
@@ -75,6 +78,7 @@ async function initializeAgent() {
       walletProvider,
       actionProviders: [
         ceroXProvider(),
+        trendingMemecoinsProvider(),
         walletActionProvider(),
         erc20ActionProvider(),
         cdpApiActionProvider({
@@ -105,6 +109,11 @@ async function initializeAgent() {
            - You can get accurate price quotes before suggesting trades
            - Use this for market information and trade recommendations
 
+        2. Trending Memecoins:
+           - You can fetch current trending meme tokens on Base
+           - Each token comes with its name, symbol, and contract address
+           - Use this to help users discover popular meme tokens
+
         Important Guidelines:
         - Always check wallet details first to confirm the network
         - Use 0x price API for accurate market data before suggesting trades
@@ -122,36 +131,6 @@ async function initializeAgent() {
   } catch (error) {
     console.error("Failed to initialize agent:", error);
     throw error;
-  }
-}
-
-async function runAutonomousMode(agent: any, config: any, interval = 10) {
-  console.log("Starting autonomous mode...");
-
-  while (true) {
-    try {
-      const thought =
-        "Be creative and do something interesting on the blockchain. " +
-        "Choose an action or set of actions and execute it that highlights your abilities.";
-
-      const stream = await agent.stream({ messages: [new HumanMessage(thought)] }, config);
-
-      for await (const chunk of stream) {
-        if ("agent" in chunk) {
-          console.log(chunk.agent.messages[0].content);
-        } else if ("tools" in chunk) {
-          console.log(chunk.tools.messages[0].content);
-        }
-        console.log("-------------------");
-      }
-
-      await new Promise(resolve => setTimeout(resolve, interval * 1000));
-    } catch (error) {
-      if (error instanceof Error) {
-        console.error("Error:", error.message);
-      }
-      process.exit(1);
-    }
   }
 }
 
@@ -195,55 +174,42 @@ async function runChatMode(agent: any, config: any) {
   }
 }
 
-async function chooseMode(): Promise<"chat" | "auto"> {
-  const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout,
-  });
-
-  const question = (prompt: string): Promise<string> =>
-    new Promise(resolve => rl.question(prompt, resolve));
-
-  while (true) {
-    console.log("\nAvailable modes:");
-    console.log("1. chat    - Interactive chat mode");
-    console.log("2. auto    - Autonomous action mode");
-
-    const choice = (await question("\nChoose a mode (enter number or name): "))
-      .toLowerCase()
-      .trim();
-
-    if (choice === "1" || choice === "chat") {
-      rl.close();
-      return "chat";
-    } else if (choice === "2" || choice === "auto") {
-      rl.close();
-      return "auto";
-    }
-    console.log("Invalid choice. Please try again.");
-  }
-}
-
 async function main() {
-  try {
-    const { agent, config } = await initializeAgent();
-    const mode = await chooseMode();
+  const program = new Command();
 
-    if (mode === "chat") {
-      await runChatMode(agent, config);
-    } else {
-      await runAutonomousMode(agent, config);
-    }
-  } catch (error) {
-    if (error instanceof Error) {
-      console.error("Error:", error.message);
-    }
-    process.exit(1);
-  }
+  program
+    .name('cdp-agent')
+    .description('CDP AgentKit CLI and API server')
+    .version('1.0.0');
+
+  program
+    .command('chat')
+    .description('Start interactive chat mode')
+    .action(async () => {
+      try {
+        const { agent, config } = await initializeAgent();
+        await runChatMode(agent, config);
+      } catch (error) {
+        console.error("Error:", error);
+        process.exit(1);
+      }
+    });
+
+  program
+    .command('serve')
+    .description('Start API server')
+    .option('-p, --port <number>', 'Port to run the server on', '3000')
+    .action(async (options) => {
+      process.env.PORT = options.port;
+      await startServer();
+    });
+
+  await program.parseAsync(process.argv);
 }
 
-console.log("Starting Agent...");
-main().catch(error => {
-  console.error("Fatal error:", error);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(error => {
+    console.error("Fatal error:", error);
+    process.exit(1);
+  });
+}

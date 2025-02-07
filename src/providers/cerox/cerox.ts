@@ -45,7 +45,11 @@ class CeroXActionProvider extends ActionProvider {
                 '0x-version': 'v2',
             };
 
+            console.log(priceParams);
+
             const priceResponse = await fetch('https://api.0x.org/swap/permit2/price?' + priceParams.toString(), { headers });
+
+            console.log(priceResponse);
 
             if (!priceResponse.ok) {
                 const errorText = await priceResponse.text();
