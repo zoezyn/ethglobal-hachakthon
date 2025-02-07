@@ -59,7 +59,7 @@ class CeroXActionProvider extends ActionProvider {
             const priceResponseJson = await priceResponse.json();
             const parsedPriceResponse = formatUnits(priceResponseJson.buyAmount, 6);
 
-            return `The price of ${params.addressOfTokenToGetPriceInfo} is ${parsedPriceResponse.toString()} USDC`;
+            return `The price of ${params.amountOfTokenYouWantToConvert} ${params.addressOfTokenToGetPriceInfo} is ${parsedPriceResponse.toString()} USDC`;
         } catch (error) {
             throw error;
         }
