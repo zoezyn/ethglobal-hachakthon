@@ -1,0 +1,1309 @@
+[
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "slug": "shiba-inu",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "doggone-doggerel",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "contractExplorerUrl": "https://basescan.org/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+  },
+  {
+    "name": "Bonk",
+    "symbol": "BONK",
+    "slug": "bonk1",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "polygon-ecosystem",
+      "doggone-doggerel",
+      "arbitrum-ecosystem",
+      "injective-ecosystem",
+      "bnb-chain-ecosystem",
+      "aptos-ecosystem",
+      "sui-ecosystem",
+      "dwf-labs-portfolio",
+      "base-ecosystem",
+      "cmc-crypto-awards-2024",
+      "made-in-america"
+    ],
+    "contractAddress": "0xdf1cf211d38e7762c9691be4d779a441a17a6cfc",
+    "contractExplorerUrl": "https://basescan.org/token/0xdf1cf211d38e7762c9691be4d779a441a17a6cfc"
+  },
+  {
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "slug": "spx6900",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+    "contractExplorerUrl": "https://basescan.org/token/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C"
+  },
+  {
+    "name": "Brett (Based)",
+    "symbol": "BRETT",
+    "slug": "based-brett",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+    "contractExplorerUrl": "https://basescan.org/token/0x532f27101965dd16442e59d40670faf5ebb142e4"
+  },
+  {
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "slug": "mog-coin",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "base-ecosystem",
+      "cat-themed",
+      "animal-memes"
+    ],
+    "contractAddress": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+    "contractExplorerUrl": "https://basescan.org/token/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71"
+  },
+  {
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "slug": "toshithecat",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+    "contractExplorerUrl": "https://basescan.org/token/0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4"
+  },
+  {
+    "name": "Neiro (First Neiro On Ethereum)",
+    "symbol": "NEIRO",
+    "slug": "first-neiro-on-ethereum",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "doggone-doggerel",
+      "dwf-labs-portfolio",
+      "base-ecosystem",
+      "ip-memes"
+    ],
+    "contractAddress": "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a",
+    "contractExplorerUrl": "https://basescan.org/token/0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a"
+  },
+  {
+    "name": "Ski Mask Dog",
+    "symbol": "SKI",
+    "slug": "ski-mask-dog",
+    "tags": [
+      "memes",
+      "doggone-doggerel",
+      "base-ecosystem",
+      "binance-alpha"
+    ],
+    "contractAddress": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
+    "contractExplorerUrl": "https://basescan.org/token/0x768BE13e1680b5ebE0024C42c896E3dB59ec0149"
+  },
+  {
+    "name": "Non-Playable Coin",
+    "symbol": "NPC",
+    "slug": "non-playable-coin",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "hybrid-token-standard"
+    ],
+    "contractAddress": "0xb166e8b140d35d9d8226e40c09f757bac5a4d87d",
+    "contractExplorerUrl": "https://basescan.org/token/0xb166e8b140d35d9d8226e40c09f757bac5a4d87d"
+  },
+  {
+    "name": "HarryPotterObamaSonic10Inu (ERC-20)",
+    "symbol": "BITCOIN",
+    "slug": "harrypotterobamasonic10inu-eth",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "base-ecosystem",
+      "binance-alpha"
+    ],
+    "contractAddress": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+    "contractExplorerUrl": "https://basescan.org/token/0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29"
+  },
+  {
+    "name": "Akuma Inu",
+    "symbol": "$AKUMA",
+    "slug": "akuma-inu",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x2F20Cf3466f80A5f7f532fCa553c8cbc9727FEf6",
+    "contractExplorerUrl": "https://basescan.org/token/0x2F20Cf3466f80A5f7f532fCa553c8cbc9727FEf6"
+  },
+  {
+    "name": "Osaka Protocol",
+    "symbol": "OSAK",
+    "slug": "osaka-protocol",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "avalanche-ecosystem",
+      "polygon-ecosystem",
+      "doggone-doggerel",
+      "arbitrum-ecosystem",
+      "bnb-chain-ecosystem",
+      "optimism-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "contractExplorerUrl": "https://basescan.org/token/0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e"
+  },
+  {
+    "name": "Mr Miggles",
+    "symbol": "MIGGLES",
+    "slug": "mr-miggles",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed",
+      "cmc-community-vote-winners",
+      "ip-memes"
+    ],
+    "contractAddress": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+    "contractExplorerUrl": "https://basescan.org/token/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d"
+  },
+  {
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "slug": "degen-base",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "contractExplorerUrl": "https://basescan.org/token/0x4ed4e862860bed51a9570b96d89af5e1b0efefed"
+  },
+  {
+    "name": "Keyboard Cat",
+    "symbol": "KEYCAT",
+    "slug": "keyboard-cat",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed",
+      "ip-memes"
+    ],
+    "contractAddress": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+    "contractExplorerUrl": "https://basescan.org/token/0x9a26F5433671751C3276a065f57e5a02D2817973"
+  },
+  {
+    "name": "Basenji",
+    "symbol": "BENJI",
+    "slug": "basenjibase",
+    "tags": [
+      "memes",
+      "doggone-doggerel",
+      "base-ecosystem",
+      "ip-memes"
+    ],
+    "contractAddress": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+    "contractExplorerUrl": "https://basescan.org/token/0xBC45647eA894030a4E9801Ec03479739FA2485F0"
+  },
+  {
+    "name": "MAGA (magamemecoin.com)",
+    "symbol": "TRUMP",
+    "slug": "maga",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "political-memes"
+    ],
+    "contractAddress": "0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37",
+    "contractExplorerUrl": "https://basescan.org/token/0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37"
+  },
+  {
+    "name": "WUFFI",
+    "symbol": "WUF",
+    "slug": "wuffi",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "play-to-earn",
+      "telegram-bot",
+      "base-ecosystem",
+      "toncoin-ecosystem",
+      "wax-ecosystem"
+    ],
+    "contractAddress": "0x4da78059d97f155e18b37765e2e042270f4e0fc4",
+    "contractExplorerUrl": "https://basescan.org/token/0x4da78059d97f155e18b37765e2e042270f4e0fc4"
+  },
+  {
+    "name": "Rekt (rektcoin.com)",
+    "symbol": "REKT",
+    "slug": "rekt-eth",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+    "contractExplorerUrl": "https://basescan.org/token/0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba"
+  },
+  {
+    "name": "BOBO",
+    "symbol": "BOBO",
+    "slug": "bobo-coin",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x570b1533F6dAa82814B25B62B5c7c4c55eB83947",
+    "contractExplorerUrl": "https://basescan.org/token/0x570b1533F6dAa82814B25B62B5c7c4c55eB83947"
+  },
+  {
+    "name": "Mochi (New)",
+    "symbol": "MOCHI",
+    "slug": "mochi-the-catcoin-new",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed",
+      "ip-memes"
+    ],
+    "contractAddress": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50",
+    "contractExplorerUrl": "https://basescan.org/token/0xf6e932ca12afa26665dc4dde7e27be02a7c02e50"
+  },
+  {
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "slug": "crow-with-knife",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "polygon-ecosystem",
+      "arbitrum-ecosystem",
+      "cronos-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xdfbea88c4842d30c26669602888d746d30f9d60d",
+    "contractExplorerUrl": "https://basescan.org/token/0xdfbea88c4842d30c26669602888d746d30f9d60d"
+  },
+  {
+    "name": "PAW",
+    "symbol": "PAW",
+    "slug": "pawswap",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "polygon-ecosystem",
+      "doggone-doggerel",
+      "arbitrum-ecosystem",
+      "defi-2",
+      "bnb-chain-ecosystem",
+      "layer-1",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "contractExplorerUrl": "https://basescan.org/token/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb"
+  },
+  {
+    "name": "Kendu Inu",
+    "symbol": "KENDU",
+    "slug": "kendu-inu",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xef73611f98da6e57e0776317957af61b59e09ed7",
+    "contractExplorerUrl": "https://basescan.org/token/0xef73611f98da6e57e0776317957af61b59e09ed7"
+  },
+  {
+    "name": "aixCB by Virtuals",
+    "symbol": "AIXCB",
+    "slug": "aixcb-by-virtuals",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem",
+      "binance-alpha"
+    ],
+    "contractAddress": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+    "contractExplorerUrl": "https://basescan.org/token/0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f"
+  },
+  {
+    "name": "Shrub",
+    "symbol": "SHRUB",
+    "slug": "shrub",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "base-ecosystem",
+      "animal-memes"
+    ],
+    "contractAddress": "0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4",
+    "contractExplorerUrl": "https://basescan.org/token/0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4"
+  },
+  {
+    "name": "Katana Inu",
+    "symbol": "KATA",
+    "slug": "katana-inu",
+    "tags": [
+      "gaming",
+      "memes",
+      "ethereum-ecosystem",
+      "metaverse",
+      "play-to-earn",
+      "bnb-chain-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x02454a97A8372f3A760A033DBb39E67D73BD6d87",
+    "contractExplorerUrl": "https://basescan.org/token/0x02454a97A8372f3A760A033DBb39E67D73BD6d87"
+  },
+  {
+    "name": "CateCoin",
+    "symbol": "CATE",
+    "slug": "catecoin",
+    "tags": [
+      "collectibles-nfts",
+      "defi",
+      "gaming",
+      "entertainment",
+      "memes",
+      "staking",
+      "wallet",
+      "dapp",
+      "ethereum-ecosystem",
+      "launchpad",
+      "play-to-earn",
+      "web3",
+      "oxbull",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0x051fb509e4a775fabd257611eea1efaed8f91359",
+    "contractExplorerUrl": "https://basescan.org/token/0x051fb509e4a775fabd257611eea1efaed8f91359"
+  },
+  {
+    "name": "donotfomoew",
+    "symbol": "MOEW",
+    "slug": "donotfomoew",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "base-ecosystem",
+      "toncoin-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0x15aC90165f8B45A80534228BdCB124A011F62Fee",
+    "contractExplorerUrl": "https://basescan.org/token/0x15aC90165f8B45A80534228BdCB124A011F62Fee"
+  },
+  {
+    "name": "KiboShib",
+    "symbol": "KIBSHI",
+    "slug": "kiboshib",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "arbitrum-ecosystem",
+      "base-ecosystem",
+      "ai-memes"
+    ],
+    "contractAddress": "0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514",
+    "contractExplorerUrl": "https://basescan.org/token/0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514"
+  },
+  {
+    "name": "Nya",
+    "symbol": "NYA",
+    "slug": "nya",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "avalanche-ecosystem",
+      "polygon-ecosystem",
+      "arbitrum-ecosystem",
+      "bnb-chain-ecosystem",
+      "optimism-ecosystem",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+    "contractExplorerUrl": "https://basescan.org/token/0x38F9bf9dCe51833Ec7f03C9dC218197999999999"
+  },
+  {
+    "name": "RealGOAT",
+    "symbol": "RGOAT",
+    "slug": "real-goat",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xF0268c5F9aA95Baf5C25D646AAbB900Ac12F0800",
+    "contractExplorerUrl": "https://basescan.org/token/0xF0268c5F9aA95Baf5C25D646AAbB900Ac12F0800"
+  },
+  {
+    "name": "Hoge Finance",
+    "symbol": "HOGE",
+    "slug": "hoge-finance",
+    "tags": [
+      "gaming",
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xDf690C65d067035364a58369C26820D3696D7799",
+    "contractExplorerUrl": "https://basescan.org/token/0xDf690C65d067035364a58369C26820D3696D7799"
+  },
+  {
+    "name": "aiPump",
+    "symbol": "AIPUMP",
+    "slug": "aipump",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "base-ecosystem",
+      "defai"
+    ],
+    "contractAddress": "0xfbecd19292b1eFfEAA7B2e61F5101DdB6744A1Fb",
+    "contractExplorerUrl": "https://basescan.org/token/0xfbecd19292b1eFfEAA7B2e61F5101DdB6744A1Fb"
+  },
+  {
+    "name": "Byte",
+    "symbol": "BYTE",
+    "slug": "byte",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "binance-smart-chain",
+      "solana-ecosystem",
+      "doggone-doggerel",
+      "arbitrum-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "ai-memes"
+    ],
+    "contractAddress": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4",
+    "contractExplorerUrl": "https://basescan.org/token/0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4"
+  },
+  {
+    "name": "Russell",
+    "symbol": "RUSSELL",
+    "slug": "russell",
+    "tags": [
+      "memes",
+      "doggone-doggerel",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b",
+    "contractExplorerUrl": "https://basescan.org/token/0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b"
+  },
+  {
+    "name": "Carlo",
+    "symbol": "CARLO",
+    "slug": "carlo",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x38d513Ec43ddA20f323f26c7bef74c5cF80b6477",
+    "contractExplorerUrl": "https://basescan.org/token/0x38d513Ec43ddA20f323f26c7bef74c5cF80b6477"
+  },
+  {
+    "name": "Crash",
+    "symbol": "CRASH",
+    "slug": "crash-on-base",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cmc-community-vote-winners"
+    ],
+    "contractAddress": "0x4dd9077269dd08899f2a9e73507125962b5bc87f",
+    "contractExplorerUrl": "https://basescan.org/token/0x4dd9077269dd08899f2a9e73507125962b5bc87f"
+  },
+  {
+    "name": "Coinye West",
+    "symbol": "COINYE",
+    "slug": "coinye-west",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x0028e1E60167b48a938B785AA5292917E7eacA8b",
+    "contractExplorerUrl": "https://basescan.org/token/0x0028e1E60167b48a938B785AA5292917E7eacA8b"
+  },
+  {
+    "name": "CATAMOTO",
+    "symbol": "CATA",
+    "slug": "catamoto-cat",
+    "tags": [
+      "memes",
+      "solana-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0xBDf5bAfEE1291EEc45Ae3aadAc89BE8152D4E673",
+    "contractExplorerUrl": "https://basescan.org/token/0xBDf5bAfEE1291EEc45Ae3aadAc89BE8152D4E673"
+  },
+  {
+    "name": "Roost Coin",
+    "symbol": "ROOST",
+    "slug": "roost-coin",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xeD899bfDB28c8ad65307Fa40f4acAB113AE2E14c",
+    "contractExplorerUrl": "https://basescan.org/token/0xeD899bfDB28c8ad65307Fa40f4acAB113AE2E14c"
+  },
+  {
+    "name": "Chuck",
+    "symbol": "CHUCK",
+    "slug": "chuck-on-base",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x7A8A5012022BCCBf3EA4b03cD2bb5583d915fb1A",
+    "contractExplorerUrl": "https://basescan.org/token/0x7A8A5012022BCCBf3EA4b03cD2bb5583d915fb1A"
+  },
+  {
+    "name": "REKT (rekt.game)",
+    "symbol": "$REKT",
+    "slug": "rektcoin-new",
+    "tags": [
+      "gambling",
+      "memes",
+      "telegram-bot",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x8972AB69D499B5537a31576725f0af8F67203D38",
+    "contractExplorerUrl": "https://basescan.org/token/0x8972AB69D499B5537a31576725f0af8F67203D38"
+  },
+  {
+    "name": "Nutcoin",
+    "symbol": "NUT",
+    "slug": "nutcoin-org",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "arbitrum-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x6A9431b9ecce9dDe3f7a32391d5b61C5AD11e4A0",
+    "contractExplorerUrl": "https://basescan.org/token/0x6A9431b9ecce9dDe3f7a32391d5b61C5AD11e4A0"
+  },
+  {
+    "name": "Moby",
+    "symbol": "MOBY",
+    "slug": "mobyonbase",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xEA1D649dDC8e2A6E6EE40b89b2997518476caFa5",
+    "contractExplorerUrl": "https://basescan.org/token/0xEA1D649dDC8e2A6E6EE40b89b2997518476caFa5"
+  },
+  {
+    "name": "Based Shiba Inu",
+    "symbol": "BSHIB",
+    "slug": "based-shiba-inu",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
+    "contractExplorerUrl": "https://basescan.org/token/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA"
+  },
+  {
+    "name": "Make America Based Again",
+    "symbol": "MABA",
+    "slug": "make-america-based-again",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "political-memes"
+    ],
+    "contractAddress": "0xD9eA93A38D1771C870128f9134D4622d331C04C8",
+    "contractExplorerUrl": "https://basescan.org/token/0xD9eA93A38D1771C870128f9134D4622d331C04C8"
+  },
+  {
+    "name": "FOMO BULL CLUB",
+    "symbol": "FOMO",
+    "slug": "fomo-bull-club",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
+    "contractExplorerUrl": "https://basescan.org/token/0x9A86980D3625b4A6E69D8a4606D51cbc019e2002"
+  },
+  {
+    "name": "Godcat Exploding Kittens",
+    "symbol": "GODCAT",
+    "slug": "godcatexplodingkittens",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0xdb08CA267e824fb29eb455B7e06Fe73FB0370895",
+    "contractExplorerUrl": "https://basescan.org/token/0xdb08CA267e824fb29eb455B7e06Fe73FB0370895"
+  },
+  {
+    "name": "Hide the Pain Harold",
+    "symbol": "PAIN",
+    "slug": "hide-the-pain-harold",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xFdedbA064651F3D5Cb11318Fb7c700eB52cf7c21",
+    "contractExplorerUrl": "https://basescan.org/token/0xFdedbA064651F3D5Cb11318Fb7c700eB52cf7c21"
+  },
+  {
+    "name": "Boomer",
+    "symbol": "BOOMER",
+    "slug": "boomer",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xcdE172dc5ffC46D228838446c57C1227e0B82049",
+    "contractExplorerUrl": "https://basescan.org/token/0xcdE172dc5ffC46D228838446c57C1227e0B82049"
+  },
+  {
+    "name": "Gochujangcoin",
+    "symbol": "GOCHU",
+    "slug": "gochujangcoin",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x9aAaE745cf2830FB8DDc6248B17436dC3a5E701C",
+    "contractExplorerUrl": "https://basescan.org/token/0x9aAaE745cf2830FB8DDc6248B17436dC3a5E701C"
+  },
+  {
+    "name": "Base God",
+    "symbol": "TYBG",
+    "slug": "base-god",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+    "contractExplorerUrl": "https://basescan.org/token/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE"
+  },
+  {
+    "name": "mfercoin",
+    "symbol": "$mfer",
+    "slug": "mfercoin",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xE3086852A4B125803C815a158249ae468A3254Ca",
+    "contractExplorerUrl": "https://basescan.org/token/0xE3086852A4B125803C815a158249ae468A3254Ca"
+  },
+  {
+    "name": "Higher",
+    "symbol": "HIGHER",
+    "slug": "higher",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
+    "contractExplorerUrl": "https://basescan.org/token/0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe"
+  },
+  {
+    "name": "Skulls of Pepe Token",
+    "symbol": "SKOP",
+    "slug": "skulls-of-pepe-token",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cmc-community-vote-winners"
+    ],
+    "contractAddress": "0x6d3b8c76c5396642960243febf736c6be8b60562",
+    "contractExplorerUrl": "https://basescan.org/token/0x6d3b8c76c5396642960243febf736c6be8b60562"
+  },
+  {
+    "name": "Luminous",
+    "symbol": "LUM",
+    "slug": "luminous",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "ai-agents",
+      "clanker-ecosystem"
+    ],
+    "contractAddress": "0x0fD7a301B51d0A83FCAf6718628174D527B373b6",
+    "contractExplorerUrl": "https://basescan.org/token/0x0fD7a301B51d0A83FCAf6718628174D527B373b6"
+  },
+  {
+    "name": "TaskBunny",
+    "symbol": "BNY",
+    "slug": "taskbunny",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x6009e7CD237087e6d7570990e8bDac09C3E182B0",
+    "contractExplorerUrl": "https://basescan.org/token/0x6009e7CD237087e6d7570990e8bDac09C3E182B0"
+  },
+  {
+    "name": "Brian",
+    "symbol": "BRIAN",
+    "slug": "brian-arm-strong",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x3ecced5b416e58664f04a39dd18935eb71d33b15",
+    "contractExplorerUrl": "https://basescan.org/token/0x3ecced5b416e58664f04a39dd18935eb71d33b15"
+  },
+  {
+    "name": "Bsop",
+    "symbol": "BSOP",
+    "slug": "bsop",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x9704d2adBc02C085ff526a37ac64872027AC8a50",
+    "contractExplorerUrl": "https://basescan.org/token/0x9704d2adBc02C085ff526a37ac64872027AC8a50"
+  },
+  {
+    "name": "Based Blu Alien",
+    "symbol": "BLU",
+    "slug": "based-blu-alien",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x52E0D3c27CC9e3607C1Ca7914b9049bE3d5e9C41",
+    "contractExplorerUrl": "https://basescan.org/token/0x52E0D3c27CC9e3607C1Ca7914b9049bE3d5e9C41"
+  },
+  {
+    "name": "Sympson AI",
+    "symbol": "$SYMP",
+    "slug": "sympson-ai",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0x504a26cf29674bc77a9341e73f88ccecc864034c",
+    "contractExplorerUrl": "https://basescan.org/token/0x504a26cf29674bc77a9341e73f88ccecc864034c"
+  },
+  {
+    "name": "Any Inu",
+    "symbol": "AI",
+    "slug": "any-inu",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "avalanche-ecosystem",
+      "solana-ecosystem",
+      "polygon-ecosystem",
+      "doggone-doggerel",
+      "fantom-ecosystem",
+      "arbitrum-ecosystem",
+      "cross-chain",
+      "bnb-chain-ecosystem",
+      "optimism-ecosystem",
+      "base-ecosystem",
+      "ai-memes"
+    ],
+    "contractAddress": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "contractExplorerUrl": "https://basescan.org/token/0x2598c30330D5771AE9F983979209486aE26dE875"
+  },
+  {
+    "name": "Super Best Friends",
+    "symbol": "SUBF",
+    "slug": "super-best-friends",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10",
+    "contractExplorerUrl": "https://basescan.org/token/0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10"
+  },
+  {
+    "name": "All Street Bets",
+    "symbol": "BETS",
+    "slug": "all-street-bets",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x42069dE48741Db40aeF864F8764432bBccbD0B69",
+    "contractExplorerUrl": "https://basescan.org/token/0x42069dE48741Db40aeF864F8764432bBccbD0B69"
+  },
+  {
+    "name": "HARRIS (kamala.vip)",
+    "symbol": "KAMALA",
+    "slug": "kamala-vip",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem",
+      "political-memes"
+    ],
+    "contractAddress": "0x21ebee5e161420febe4658ee7d0085076b4198aa",
+    "contractExplorerUrl": "https://basescan.org/token/0x21ebee5e161420febe4658ee7d0085076b4198aa"
+  },
+  {
+    "name": "$TRUST ME BROs by Virtuals",
+    "symbol": "TRUST",
+    "slug": "trust-me-bros-by-virtuals",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a",
+    "contractExplorerUrl": "https://basescan.org/token/0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a"
+  },
+  {
+    "name": "AstroPepeX",
+    "symbol": "APX",
+    "slug": "astropepex",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "generative-ai",
+      "base-ecosystem",
+      "ai-memes"
+    ],
+    "contractAddress": "0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509",
+    "contractExplorerUrl": "https://basescan.org/token/0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509"
+  },
+  {
+    "name": "Bamboo on Base",
+    "symbol": "BAMBOO",
+    "slug": "bamboo-on-base",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x689644B86075ed61C647596862c7403e1c474dbf",
+    "contractExplorerUrl": "https://basescan.org/token/0x689644B86075ed61C647596862c7403e1c474dbf"
+  },
+  {
+    "name": "Dickbutt",
+    "symbol": "DICKBUTT",
+    "slug": "dickbutt",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf",
+    "contractExplorerUrl": "https://basescan.org/token/0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf"
+  },
+  {
+    "name": "BORED",
+    "symbol": "BORED",
+    "slug": "boredtokenbase",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x70737489DFDf1A29b7584d40500d3561bD4Fe196",
+    "contractExplorerUrl": "https://basescan.org/token/0x70737489DFDf1A29b7584d40500d3561bD4Fe196"
+  },
+  {
+    "name": "Brett 2.0",
+    "symbol": "BRETT2.0",
+    "slug": "brett2onbase",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x885129e35D247b01C4485Ef6B48564d0Ebc8C362",
+    "contractExplorerUrl": "https://basescan.org/token/0x885129e35D247b01C4485Ef6B48564d0Ebc8C362"
+  },
+  {
+    "name": "LAZYCAT",
+    "symbol": "LAZYCAT",
+    "slug": "lazycat",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0x41eD891897117450adBd710006855B12F98cb86b",
+    "contractExplorerUrl": "https://basescan.org/token/0x41eD891897117450adBd710006855B12F98cb86b"
+  },
+  {
+    "name": "Andy (Base)",
+    "symbol": "ANDY",
+    "slug": "andy-token",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x18a8bd1fe17a1bb9ffb39ecd83e9489cfd17a022",
+    "contractExplorerUrl": "https://basescan.org/token/0x18a8bd1fe17a1bb9ffb39ecd83e9489cfd17a022"
+  },
+  {
+    "name": "Own The Doge",
+    "symbol": "DOG",
+    "slug": "the-doge-nft",
+    "tags": [
+      "collectibles-nfts",
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "polygon-ecosystem",
+      "doggone-doggerel",
+      "arbitrum-ecosystem",
+      "bnb-chain-ecosystem",
+      "optimism-ecosystem",
+      "base-ecosystem",
+      "ip-memes"
+    ],
+    "contractAddress": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
+    "contractExplorerUrl": "https://basescan.org/token/0xafb89a09d82fbde58f18ac6437b3fc81724e4df6"
+  },
+  {
+    "name": "Okayeg",
+    "symbol": "OKAYEG",
+    "slug": "okayeg",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE",
+    "contractExplorerUrl": "https://basescan.org/token/0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE"
+  },
+  {
+    "name": "Heroes of memes",
+    "symbol": "HOMS",
+    "slug": "heroes-of-memes",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xF53BB16B1eDdE5bc75fA586309265fd58f308C00",
+    "contractExplorerUrl": "https://basescan.org/token/0xF53BB16B1eDdE5bc75fA586309265fd58f308C00"
+  },
+  {
+    "name": "WAI Combinator by Virtuals",
+    "symbol": "WAI",
+    "slug": "wai-combinator-by-virtuals",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0x6112b8714221bbd96ae0a0032a683e38b475d06c",
+    "contractExplorerUrl": "https://basescan.org/token/0x6112b8714221bbd96ae0a0032a683e38b475d06c"
+  },
+  {
+    "name": "OmniCat",
+    "symbol": "OMNI",
+    "slug": "omnicat",
+    "tags": [
+      "interoperability",
+      "memes",
+      "ethereum-ecosystem",
+      "binance-smart-chain",
+      "solana-ecosystem",
+      "polygon-ecosystem",
+      "arbitrum-ecosystem",
+      "cross-chain",
+      "bnb-chain-ecosystem",
+      "canto-ecosystem",
+      "base-ecosystem",
+      "cat-themed"
+    ],
+    "contractAddress": "0xc48e605c7b722a57277e087a6170b9e227e5ac0a",
+    "contractExplorerUrl": "https://basescan.org/token/0xc48e605c7b722a57277e087a6170b9e227e5ac0a"
+  },
+  {
+    "name": "NORMIE",
+    "symbol": "NORMIE",
+    "slug": "normiebase",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
+    "contractExplorerUrl": "https://basescan.org/token/0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD"
+  },
+  {
+    "name": "BEATS on BASE",
+    "symbol": "BEATS",
+    "slug": "beats-on-base",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x315B8c9A1123c10228d469551033440441b41F0b",
+    "contractExplorerUrl": "https://basescan.org/token/0x315B8c9A1123c10228d469551033440441b41F0b"
+  },
+  {
+    "name": "ChompCoin",
+    "symbol": "CHOMP",
+    "slug": "chompcoin",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
+    "contractExplorerUrl": "https://basescan.org/token/0xebfF2db643Cf955247339c8c6bCD8406308ca437"
+  },
+  {
+    "name": "toby",
+    "symbol": "TOBY",
+    "slug": "toby",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
+    "contractExplorerUrl": "https://basescan.org/token/0xb8D98a102b0079B69FFbc760C8d857A31653e56e"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "symbol": "SATOSHI",
+    "slug": "satoshi-token",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "solana-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x45e7EAEdb8E3360f850c963c5419a5236e451217",
+    "contractExplorerUrl": "https://basescan.org/token/0x45e7EAEdb8E3360f850c963c5419a5236e451217"
+  },
+  {
+    "name": "Carl Johnson",
+    "symbol": "CJ",
+    "slug": "carl-johnson",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x0f884a04d15A3cf4Aecda7de0288C3a611326839",
+    "contractExplorerUrl": "https://basescan.org/token/0x0f884a04d15A3cf4Aecda7de0288C3a611326839"
+  },
+  {
+    "name": "DogeGF",
+    "symbol": "DOGEGF",
+    "slug": "dogegf",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "doggone-doggerel",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x881Ed0FCeF78120A135eC6cC66cEf2779FE95BBA",
+    "contractExplorerUrl": "https://basescan.org/token/0x881Ed0FCeF78120A135eC6cC66cEf2779FE95BBA"
+  },
+  {
+    "name": "Baby Tiger",
+    "symbol": "BBT",
+    "slug": "baby-tiger",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x8a638ea79f71f3b91bdc96bbdf9fb27c93013d60",
+    "contractExplorerUrl": "https://basescan.org/token/0x8a638ea79f71f3b91bdc96bbdf9fb27c93013d60"
+  },
+  {
+    "name": "Briun Armstrung",
+    "symbol": "BRIUN",
+    "slug": "briun-armstrung",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x8c81B4c816d66D36c4bF348BdeC01dBCbC70E987",
+    "contractExplorerUrl": "https://basescan.org/token/0x8c81B4c816d66D36c4bF348BdeC01dBCbC70E987"
+  },
+  {
+    "name": "SHARBI",
+    "symbol": "SHARBI",
+    "slug": "sharbi",
+    "tags": [
+      "memes",
+      "dapp",
+      "solana-ecosystem",
+      "doggone-doggerel",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x5a75a61032143575067dE2B38eF38d601976091E",
+    "contractExplorerUrl": "https://basescan.org/token/0x5a75a61032143575067dE2B38eF38d601976091E"
+  },
+  {
+    "name": "This Is My Iguana",
+    "symbol": "TIMI",
+    "slug": "this-is-my-iguana",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x9bEec80e62aA257cED8b0edD8692f79EE8783777",
+    "contractExplorerUrl": "https://basescan.org/token/0x9bEec80e62aA257cED8b0edD8692f79EE8783777"
+  },
+  {
+    "name": "Chinese Doge Wow",
+    "symbol": "$CHIDO",
+    "slug": "chinese-doge-wow",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xF31e6D62BFC485857af2186eB3d8ee94b4379feD",
+    "contractExplorerUrl": "https://basescan.org/token/0xF31e6D62BFC485857af2186eB3d8ee94b4379feD"
+  },
+  {
+    "name": "Jaihoz by Virtuals",
+    "symbol": "JAIHOZ",
+    "slug": "jaihoz",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "ai-agents",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0xe2816b27a5613b0aaf5d6dafa80584156e2fb1b6",
+    "contractExplorerUrl": "https://basescan.org/token/0xe2816b27a5613b0aaf5d6dafa80584156e2fb1b6"
+  },
+  {
+    "name": "GM Everyday",
+    "symbol": "GM",
+    "slug": "gm-everyday",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x5D9c2457a10d455e0AD8e28e40CC28EACF27A06a",
+    "contractExplorerUrl": "https://basescan.org/token/0x5D9c2457a10d455e0AD8e28e40CC28EACF27A06a"
+  },
+  {
+    "name": "Podflow AI by Virtuals",
+    "symbol": "POD",
+    "slug": "podflow-ai-by-virtuals",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0x8e3bff1abf376f7a5d036cc3d85766394744dd04",
+    "contractExplorerUrl": "https://basescan.org/token/0x8e3bff1abf376f7a5d036cc3d85766394744dd04"
+  },
+  {
+    "name": "Beni",
+    "symbol": "BENI",
+    "slug": "beni",
+    "tags": [
+      "memes",
+      "doggone-doggerel",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xde7a416ac821c77478340eebaa21b68297025ef3",
+    "contractExplorerUrl": "https://basescan.org/token/0xde7a416ac821c77478340eebaa21b68297025ef3"
+  },
+  {
+    "name": "Penjamin Blinkerton",
+    "symbol": "PEN",
+    "slug": "penjamin-blinkerton",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0xd7d919ea0c33a97ad6e7bd4f510498e2ec98cb78",
+    "contractExplorerUrl": "https://basescan.org/token/0xd7d919ea0c33a97ad6e7bd4f510498e2ec98cb78"
+  },
+  {
+    "name": "Iona by Virtuals",
+    "symbol": "IONA",
+    "slug": "iona-by-virtuals",
+    "tags": [
+      "memes",
+      "base-ecosystem",
+      "ai-memes",
+      "virtuals-protocol-ecosystem"
+    ],
+    "contractAddress": "0x645c7aa841087e2e7f741c749ab27422ff5bba8e",
+    "contractExplorerUrl": "https://basescan.org/token/0x645c7aa841087e2e7f741c749ab27422ff5bba8e"
+  },
+  {
+    "name": "Young Peezy AKA Pepe",
+    "symbol": "PEEZY",
+    "slug": "young-peezy-aka-pepe",
+    "tags": [
+      "memes",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x1b6a569dd61edce3c383f6d565e2f79ec3a12980",
+    "contractExplorerUrl": "https://basescan.org/token/0x1b6a569dd61edce3c383f6d565e2f79ec3a12980"
+  },
+  {
+    "name": "POG",
+    "symbol": "POGS",
+    "slug": "pog",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "base-ecosystem",
+      "theta-network-ecosystem"
+    ],
+    "contractAddress": "0x728f0a7FEC1859Cb0d71A432271D4E80310d235f",
+    "contractExplorerUrl": "https://basescan.org/token/0x728f0a7FEC1859Cb0d71A432271D4E80310d235f"
+  },
+  {
+    "name": "DOGITA",
+    "symbol": "DOGA",
+    "slug": "dogita",
+    "tags": [
+      "memes",
+      "ethereum-ecosystem",
+      "bnb-chain-ecosystem",
+      "base-ecosystem"
+    ],
+    "contractAddress": "0x488542C2320F20D65405a1C03DA769Bc124F9A28",
+    "contractExplorerUrl": "https://basescan.org/token/0x488542C2320F20D65405a1C03DA769Bc124F9A28"
+  }
+]
